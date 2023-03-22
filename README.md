@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📚 Atualmente curso o 2° ano do Ensino Médio no SESI Ipiranga;
+
+🏡 Moro Em São Paulo, capital;
+
+💻 Curso Desenvolvimento de Sistemas no Senai;
+
+❤ Tenho 16 anos;
+
+🎶 Amo música.
+
+## Ferramentas e Tecnologias
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+          
